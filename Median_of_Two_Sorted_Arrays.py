@@ -27,4 +27,4 @@ class Solution(object):
         else:
             median = mergedArray[(size//2) ]
 
-        return float(median)    
+        return float(median) 
